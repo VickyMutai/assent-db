@@ -11,6 +11,8 @@ import { environment } from 'src/environments/environment';
 import { RegisterComponent } from './auth/register/register.component';
 import { ForgotPasswordComponent } from './auth/forgot-password/forgot-password.component';
 import { VerifyEmailComponent } from './auth/verify-email/verify-email.component';
+import { HomeComponent } from './home/home.component';
+import { WorkingComponent } from './working/working.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { VerifyEmailComponent } from './auth/verify-email/verify-email.component
     LoginComponent,
     RegisterComponent,
     ForgotPasswordComponent,
-    VerifyEmailComponent
+    VerifyEmailComponent,
+    HomeComponent,
+    WorkingComponent
   ],
   imports: [
     BrowserModule,

@@ -11,5 +11,8 @@ export class LoginComponent implements OnInit {
 
   constructor(private authservice: AuthenticationService) { }
   ngOnInit() {}
+  emailPasswordAuth(){
+    this.authservice.login;
+  }
 
 }

@@ -1,15 +1,23 @@
-<div class="row">
-    <div class="col-md-6">
+<div class="row login">
+    <div class="col-md-5">
         <img src="../../../assets/vblog.png" alt="" srcset="" style="object-fit: contain;">
     </div>
-    <div class="col-md-6" style="margin-top: 5%;">
+    <div class="col-md-1"></div>
+    <div class="col-md-5" style="margin-top: 10%; padding-left: 100px;">
     <div class="container">
-    <h1>ASSENT COMPLIANCE</h1>
-    <form>
-        <input type="text" class="form-control" placeholder="Email" required autofocus><br>
-        <input type="password" class="form-control" placeholder="Password" required><br>
-        <button class="btn btn-lg btn-primary btn-block" type="submit">Login</button>
-    </form>
+    <div class="card border-info">
+    <div class="card-header">
+    <h1 style="font-family: Sans-serif; font-size: 30px">ASSENT LOGIN</h1>
+    </div>
+    <div class="card-body">
+        <input type="text" class="form-control" placeholder="Email" required autofocus style="font-size:15px;"><br>
+        <input type="password" class="form-control" placeholder="Password" required style="font-size:15px;"><br>
+    </div>
+    <div class="card-footer">
+        <button class="btn-lg btn-primary btn-block" type="submit" (click)="emailPasswordAuth()">Login</button>
     </div>
     </div>
+    </div>
+    </div>
+    <div class="col-md-1"></div>
 </div>
