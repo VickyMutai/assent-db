@@ -1,0 +1,68 @@
+[debug] [2019-10-28T00:46:29.795Z] ----------------------------------------------------------------------
+[debug] [2019-10-28T00:46:29.801Z] Command:       /home/vicky/.nvm/versions/node/v9.3.0/bin/node /home/vicky/.nvm/versions/node/v9.3.0/bin/firebase init functions
+[debug] [2019-10-28T00:46:29.801Z] CLI Version:   7.2.2
+[debug] [2019-10-28T00:46:29.801Z] Platform:      linux
+[debug] [2019-10-28T00:46:29.801Z] Node Version:  v9.3.0
+[debug] [2019-10-28T00:46:29.802Z] Time:          Mon Oct 28 2019 03:46:29 GMT+0300 (EAT)
+[debug] [2019-10-28T00:46:29.802Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-10-28T00:46:29.930Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-28T00:46:29.930Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/vicky/Documents/project/assentcompliance/assent
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2019-10-28T00:46:29.966Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects?page_size=100  
+ 
+[debug] [2019-10-28T00:50:49.197Z] ----------------------------------------------------------------------
+[debug] [2019-10-28T00:50:49.205Z] Command:       /home/vicky/.nvm/versions/node/v9.3.0/bin/node /home/vicky/.nvm/versions/node/v9.3.0/bin/firebase init functions
+[debug] [2019-10-28T00:50:49.206Z] CLI Version:   7.2.2
+[debug] [2019-10-28T00:50:49.206Z] Platform:      linux
+[debug] [2019-10-28T00:50:49.206Z] Node Version:  v9.3.0
+[debug] [2019-10-28T00:50:49.206Z] Time:          Mon Oct 28 2019 03:50:49 GMT+0300 (EAT)
+[debug] [2019-10-28T00:50:49.206Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-10-28T00:50:49.388Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-28T00:50:49.388Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/vicky/Documents/project/assentcompliance/assent
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2019-10-28T00:50:49.409Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects?page_size=100  
+ 

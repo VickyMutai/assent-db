@@ -32,6 +32,6 @@ import { WorkingComponent } from './working/working.component';
     FormsModule,
   ],
   providers: [],
-  bootstrap: [AppComponent,LoginComponent]
+  bootstrap: [AppComponent]
 })
 export class AppModule { }
